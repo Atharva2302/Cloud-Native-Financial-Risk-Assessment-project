@@ -1,0 +1,4 @@
+{
+  "FunctionName": "RiskAssessmentLambda",
+  "Runtime": "python3.9"
+}
